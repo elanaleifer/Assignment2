@@ -9,9 +9,10 @@ body {
 }
 
 h1 {
+   font-family: 'Parisienne', cursive;
    text-align: center;
-   margin: 20px;
-   font-size: 100px;
+   margin: 40px;
+   font-size: 120px;
    color: #B24D72;
 }
 
@@ -34,6 +35,7 @@ dd {
 
 p {
    border-spacing: 10px;
+   background-color: ;
 }
 
 ol {
@@ -47,4 +49,5 @@ footer {
    margin-right: 25px;
    margin-top: 25px;
    font-size: 12px;
+   background-color: #EDE1D1;
 }
