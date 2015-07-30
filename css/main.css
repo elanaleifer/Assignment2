@@ -1,16 +1,43 @@
-footer {
-   text-align: bottom;
+html {
+   background-color: #fbf7ea;
+   margin: 20px;
 }
 
 h1 {
-   font-size: 50px;
-   color: #B24D72
+   font-size: 100px;
+   color: #B24D72;
 }
 
 h2 {
-   margin-left: 20px
+   margin-left: 20px;
 }
 
 dl {
-   margin-left: 40px
+   margin-left: 40px;
+}
+
+dt {
+   color: #19192d;
+}
+
+dd {
+   margin-left: 45px;
+   color: #19192d;
+}
+
+p {
+   border-spacing: 10px;
+}
+
+ol {
+   margin-left: 40px;
+   list-style-type: decimal;
+}
+
+footer {
+   text-align: bottom;
+   margin-left: 25px;
+   margin-right: 25px;
+   margin-top: 25px;
+   font-size: 12px;
 }
