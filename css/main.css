@@ -18,19 +18,23 @@ h1 {
 
 h2 {
    margin: 20px;
+   font-size: 32px;
 }
 
 dl {
    margin-left: 40px;
+   background-color: #EDE1D1;
 }
 
 dt {
    color: #19192d;
+   background-color: #EDE1D1;
 }
 
 dd {
    margin-left: 45px;
    color: #19192d;
+   background-color: #EDE1D1;
 }
 
 p {
@@ -41,6 +45,8 @@ p {
 ol {
    margin-left: 40px;
    list-style-type: decimal;
+   background-color: #EDE1D1;
+   background-color:
 }
 
 footer {
@@ -50,4 +56,17 @@ footer {
    margin-top: 25px;
    font-size: 12px;
    background-color: #EDE1D1;
+}
+strong {
+   font-style: oblique;
+}
+
+#list2 {
+   background-color: #EDE1D1;
+   width: 250px;
+}
+
+#list1 {
+   background-color: #EDE1D1;
+   width: 300px;
 }
