@@ -1,11 +1,15 @@
 html {
    background-color: #fbf7ea;
-   margin: 20px;
+   margin: 10px;
+   border: 2px;
+   border-style: dotted;
+   border-color: #788D89;
 }
 
 body {
    font-family: 'Muli', sans-serif;
    line-height: 125%;
+   margin: 20px;
 }
 
 h1 {
@@ -40,6 +44,7 @@ dd {
 p {
    border-spacing: 10px;
    background-color: ;
+   margin: 20px;
 }
 
 ol {
