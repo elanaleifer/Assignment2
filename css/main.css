@@ -26,7 +26,7 @@ h2 {
 }
 
 dl {
-   margin-left: 40px;
+   margin-left: 30px;
    background-color: #EDE1D1;
 }
 
@@ -36,7 +36,7 @@ dt {
 }
 
 dd {
-   margin-left: 45px;
+   margin-left: 40px;
    color: #19192d;
    background-color: #EDE1D1;
 }
@@ -68,7 +68,7 @@ strong {
 
 #list2 {
    background-color: #EDE1D1;
-   width: 250px;
+   width: 220px;
 }
 
 #list1 {
