@@ -1,99 +1,99 @@
+@import url(css/base.css);
+
 html {
-   background-color: #fbf7ea;
-   margin: 10px;
-   border: 5px;
-   border-style: dotted;
-   border-color: #788D89;
+  background-color: #fbf7ea;
+  margin: 10px;
+  border: 5px;
+  border-style: dotted;
+  border-color: #788D89;
 }
 
 body {
-   font-family: 'Muli', sans-serif;
-   line-height: 125%;
-   margin: 20px;
+  font-family: 'Muli', sans-serif;
+  line-height: 125%;
+  margin: 20px;
 }
 
 h1 {
-   font-family: 'Parisienne', cursive;
-   text-align: center;
-   margin: 50px;
-   font-size: 150px;
-   color: #000066;
+  font-family: 'Parisienne', cursive;
+  text-align: center;
+  margin: 50px;
+  font-size: 150px;
+  color: #000066;
 }
 
-header:nth-of-type(1){
-   margin-top: 65px;
+header:nth-of-type(1) {
+  margin-top: 65px;
 }
 
 h2 {
-   margin: 20px;
-   font-size: 32px;
+  margin: 20px;
+  font-size: 32px;
 }
 
 dl {
-   margin-left: 40px;
-   background-color: #EDE1D1;
+  margin-left: 40px;
+  background-color: #EDE1D1;
 }
 
 dt {
-   color: #19192d;
-   background-color: #EDE1D1;
+  color: #19192d;
+  background-color: #EDE1D1;
 }
 
 dd {
-   margin-left: 40px;
-   color: #19192d;
-   background-color: #EDE1D1;
+  margin-left: 40px;
+  color: #19192d;
+  background-color: #EDE1D1;
 }
 
 p {
-   border-spacing: 10px;
-   background-color: ;
-   margin: 20px;
+  border-spacing: 10px;
+  margin: 20px;
 }
 
 ol {
-   margin-left: 40px;
-   list-style-type: decimal;
-   background-color: #EDE1D1;
-   background-color:
+  margin-left: 40px;
+  list-style-type: decimal;
+  background-color: #EDE1D1;
 }
 
 footer {
-   text-align: bottom;
-   margin-left: 25px;
-   margin-right: 25px;
-   margin-top: 25px;
-   font-size: 12px;
-   background-color: #EDE1D1;
+  text-align: bottom;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  font-size: 12px;
+  background-color: #EDE1D1;
 }
 
 strong {
-   font-style: oblique;
+  font-style: oblique;
 }
 
 #list2 {
-   background-color: #EDE1D1;
-   width: 220px;
-   margin-left: 20px;
+  background-color: #EDE1D1;
+  width: 220px;
+  margin-left: 20px;
 }
 
 #list1 {
-   background-color: #EDE1D1;
-   width: 300px;
-   margin-left: 20px;
+  background-color: #EDE1D1;
+  width: 300px;
+  margin-left: 20px;
 }
 
-h2:nth-of-type(2){
-   margin-top: 20px;
+h2:nth-of-type(2) {
+  margin-top: 20px;
 }
 
 img {
-   margin-left: 900px;
+  margin-left: 900px;
 }
 
 #quote {
-   text-align: center;
-   margin-left: 300px;
-   margin-right: 300px;
-   font-size: 12px;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 12px;
 }
